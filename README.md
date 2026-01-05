@@ -57,7 +57,7 @@ This ensures clinicians get both:
 
 1. **Clone and navigate to the project**:
 ```bash
-cd "AI Agents"
+cd ClinicalMultiAgentRag
 ```
 
 2. **Create environment file**:
@@ -286,8 +286,4 @@ The codebase follows best practices:
 - Structured logging
 - Error handling
 - Security middleware
-
-## License
-
-This is a demonstration project for learning purposes.
 
